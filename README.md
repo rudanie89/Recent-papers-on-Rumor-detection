@@ -21,4 +21,11 @@
 | | https://keras.io/guides/training_with_built_in_methods/|
 | Graph convolutional network tutorial| https://www.youtube.com/watch?v=Iiv9R6BjxHM| 
 | | https://github.com/microsoft/tf-gnn-samples | 
+|| Aspects of Rumor Spreading on a Microblog Network|
+
 |Must reading and practice soon | https://github.com/TianBian95/BiGCN | 
+
+# Modeling the dynamics of rumor propagation 
+| |paper | website| 
+|----|------|------|
+| | Modeling a Rumor Propagation in Online Social Network: An Optimal Control Approach| https://www.hindawi.com/journals/ddns/2020/6724815/|
