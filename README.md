@@ -10,3 +10,10 @@
 |----|------|-----|-----|
 |1| HISBmodel: A Rumor Diffusion Model Based on Human Individual and Social Behaviors in Online Social Networks| | |
 |2| https://en.wikipedia.org/wiki/Rumor_spread_in_social_network | | |
+
+# Reading .... : 
+| | website| 
+|----|------|
+| | https://scikit-learn.org/stable/modules/cross_validation.html|
+| | https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics| 
+| | https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html| 
