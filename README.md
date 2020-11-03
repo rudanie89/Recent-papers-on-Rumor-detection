@@ -9,3 +9,4 @@
 | | Paper| code| Journal/conference and Year|
 |----|------|-----|-----|
 |1| HISBmodel: A Rumor Diffusion Model Based on Human Individual and Social Behaviors in Online Social Networks| | |
+|2| https://en.wikipedia.org/wiki/Rumor_spread_in_social_network | | |
