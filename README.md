@@ -17,3 +17,8 @@
 | | https://scikit-learn.org/stable/modules/cross_validation.html|
 | | https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics| 
 | | https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html| 
+| | https://www.pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/| 
+| | https://keras.io/guides/training_with_built_in_methods/|
+| Graph convolutional network tutorial| https://www.youtube.com/watch?v=Iiv9R6BjxHM| 
+| | https://github.com/microsoft/tf-gnn-samples | 
+|Must reading and practice soon | https://github.com/TianBian95/BiGCN | 
