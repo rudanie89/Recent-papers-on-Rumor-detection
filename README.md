@@ -23,6 +23,7 @@
 | | https://github.com/microsoft/tf-gnn-samples | 
 || Aspects of Rumor Spreading on a Microblog Network|
 
+|----|------|
 |Must reading and practice soon | https://github.com/TianBian95/BiGCN | 
 
 # Modeling the dynamics of rumor propagation 
