@@ -23,6 +23,8 @@
 | | https://github.com/microsoft/tf-gnn-samples | 
 || Aspects of Rumor Spreading on a Microblog Network|
 
+# practicing
+|||
 |----|------|
 |Must reading and practice soon | https://github.com/TianBian95/BiGCN | 
 
