@@ -27,6 +27,7 @@
 |||
 |----|------|
 |Must reading and practice soon | https://github.com/TianBian95/BiGCN | 
+|Original GCN for node classification - already run their code but need to know how can I apply on my problem|https://github.com/tkipf/gcn|
 
 # Modeling the dynamics of rumor propagation 
 | |paper | website| 
