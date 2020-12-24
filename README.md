@@ -1,3 +1,7 @@
+# Need to do this week 27/12/2020 - 31/12/2020
+Run torch script in the server: 
+https://github.com/cfinlay/PyTorch-HelloWorld 
+
 # Recent-papers-on-Rumor-detection
 | | Paper| code| Journal/conference and Year|
 |----|------|-----|-----|
